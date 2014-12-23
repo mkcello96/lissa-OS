@@ -15,4 +15,3 @@ http://learningmsp430.wordpress.com/2013/11/16/16x2-lcd-interfacing-in-4-bit-mod
 
 Here's a video of LISOS in action: https://www.youtube.com/watch?v=ZqXl5M7bbOs
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/ZqXl5M7bbOs" frameborder="0" allowfullscreen></iframe>
