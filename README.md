@@ -13,4 +13,6 @@ some basic functions for interfacing the HD44780 with the msp430 in 4-bit mode,
 goes to Manpreet Singh Minhas, in his article here:
 http://learningmsp430.wordpress.com/2013/11/16/16x2-lcd-interfacing-in-4-bit-mode/
 
-I'll be posting a video soon of the final working product :)
+Here's a video of LISOS in action: https://www.youtube.com/watch?v=ZqXl5M7bbOs
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZqXl5M7bbOs" frameborder="0" allowfullscreen></iframe>
